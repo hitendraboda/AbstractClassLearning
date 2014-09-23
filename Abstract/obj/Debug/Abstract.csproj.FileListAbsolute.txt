@@ -1,6 +1,0 @@
-C:\Users\imt132.IMTINDIA.000\Desktop\Abstract\Abstract\bin\Debug\Abstract.exe.config
-C:\Users\imt132.IMTINDIA.000\Desktop\Abstract\Abstract\bin\Debug\Abstract.exe
-C:\Users\imt132.IMTINDIA.000\Desktop\Abstract\Abstract\bin\Debug\Abstract.pdb
-C:\Users\imt132.IMTINDIA.000\Desktop\Abstract\Abstract\obj\Debug\Abstract.exe
-C:\Users\imt132.IMTINDIA.000\Desktop\Abstract\Abstract\obj\Debug\Abstract.pdb
-C:\Users\imt132.IMTINDIA.000\Desktop\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
